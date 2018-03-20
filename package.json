@@ -1,0 +1,15 @@
+{
+  "name": "qwer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zmzhydron/qwer",
+  "author": "zhangmingzhi <zmzhydron@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.2.0"
+  }
+}
